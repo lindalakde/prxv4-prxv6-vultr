@@ -24,5 +24,5 @@ Install [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-sta
 Open [ipv6-test.com](http://ipv6-test.com/) and check your connection
 ![check ip](check_ip.png)
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/llindalakd5" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
