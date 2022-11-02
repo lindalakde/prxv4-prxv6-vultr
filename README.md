@@ -23,3 +23,5 @@ Install [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-sta
 
 Open [ipv6-test.com](http://ipv6-test.com/) and check your connection
 ![check ip](check_ip.png)
+
+Donate me: dsd
